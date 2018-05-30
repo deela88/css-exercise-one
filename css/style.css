@@ -37,7 +37,8 @@ h3 {
   font-size: 1.3em;
 }
 
-/** id class: bgchange changes the color of last 3 div elements**/
-#bgchange {
-  background-color: orange
+/** div class "element bgchange" changes the color of last 3 div elements**/
+
+.element.bgchange {
+  background-color: orange;
 }
